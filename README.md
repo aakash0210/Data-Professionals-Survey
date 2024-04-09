@@ -4,6 +4,10 @@
 
 Welcome to our survey report, where we delve into the world of data professionals! This report summarise insights gathered from a survey conducted within the data industry. Our aim is to shed light on various aspects of the data sector, from demographics to job roles, preferences, and happiness metrics.
 
+## Dashboard Preview
+
+![Screenshot 2024-04-09 110621](https://github.com/aakash0210/Data-Professionals-Survey/assets/80809380/4343acb0-d3ca-41f8-bb66-207cba8527da)
+
 ## Key Insights
 
 ### Getting to Know Our Participants
@@ -38,7 +42,7 @@ Welcome to our survey report, where we delve into the world of data professional
   - R also had a solid following, with 100 surveyees.
   - Other languages including SQL, Power BI, and Tableau, held their ground among the remaining respondents.
 
-### Gender and Pay: Breaking Stereotypes
+### Gender and Average Pay (in thousands of dollars): Breaking Stereotypes
 
 - **Pay Parity:** Interestingly, despite comprising 50.8% of the respondents, female professionals reported a slightly higher average salary ($55.19) compared to their male counterparts ($53.46).
 
